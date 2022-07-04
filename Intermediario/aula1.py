@@ -15,6 +15,7 @@ def saudacao(msg='Olá', nome='usuário'):
     print(msg, nome)
 
 saudacao(nome='Tami', msg='Hi')
+saudacao()
 saudacao('Oi', 'Luiz')
 saudacao('Hello', 'Maria')
 saudacao('Olá', 'Otávio')
